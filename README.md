@@ -1,6 +1,6 @@
 ### Hi there, I'm Austin! 👋
 
-🚀 **Jnr Mobile App Developer | Tech Sales Leader | Marketing Lead | Tech Enthusiast**  
+🚀 **Jnr Mobile App Developer | Junior Hardware and Networking Engineer |Tech Sales & Marketing Lead | Tech Enthusiast | Computer Science & Engineering Student at UMaT**  
 💡 Passionate about building innovative mobile applications and engaging tech solutions.  
 🎯 Currently working at **Benogis Innovations** and exploring new technologies.
 
