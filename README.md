@@ -27,9 +27,7 @@
 
 🔹 [**Edulink Ghana Network**](https://system.edulinkghana.net/) - Transforming school management with automation.
 
-🔹 [**Tech Shop Sales System**](https://github.com/your-repo) - Enhancing customer experience through streamlined sales management.
 
-🔹 [**Ultimate Affiliate Mastery Formula**](https://github.com/your-repo) - A framework for mastering affiliate marketing.
 
 *(Feel free to edit and update the links to your projects!)*
 
