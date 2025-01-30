@@ -29,8 +29,6 @@
 
 
 
-*(Feel free to edit and update the links to your projects!)*
-
 ---
 
 ### 📊 GitHub Stats
