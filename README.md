@@ -25,7 +25,7 @@
 
 ### 📌 Featured Projects
 
-🔹 [**Edulink Ghana Network**](https://github.com/your-repo) - Transforming school management with automation.
+🔹 [**Edulink Ghana Network**](https://system.edulinkghana.net/) - Transforming school management with automation.
 
 🔹 [**Tech Shop Sales System**](https://github.com/your-repo) - Enhancing customer experience through streamlined sales management.
 
